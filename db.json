@@ -1,0 +1,194 @@
+{
+    "nearbyPlaces": [
+        {
+            "destinationId" : 1,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Gangaramaya Temple",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/94/e5/7d/seema-malakaya-by-dasun.jpg?w=800&h=-1&s=1",
+                    "price": "Free",
+                    "longitude": 6.9166938,
+                    "latitude": 79.8566462
+                },
+                {
+                    "id": 2,
+                    "name": "Colombo National Museum",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/26/75/fc/img-20200922-143719-largejpg.jpg?w=1000&h=-1&s=1",
+                    "price": "10 €",
+                    "longitude": 6.9104555,
+                    "latitude": 79.8588038
+                },
+                {
+                    "id": 3,
+                    "name": "Culinary Ceylon",
+                    "img": "https://media-cdn.tripadvisor.com/media/photo-w/15/15/fd/06/photo3jpg.jpg",
+                    "price": "70 €",
+                    "longitude": 6.9338779,
+                    "latitude": 79.8443946
+                }
+            ]
+        },
+        {
+            "destinationId" : 2,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Sea Turtle Hatchery",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/0d/03/bd/photo1jpg.jpg?w=1100&h=-1&s=1",
+                    "price": "5 €",
+                    "longitude": 6.0405752,
+                    "latitude": 80.1961773
+                },
+                {
+                    "id": 2,
+                    "name": "National Maritime Museum",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/26/75/fc/img-20200922-143719-largejpg.jpg?w=1000&h=-1&s=1",
+                    "price": "10 €",
+                    "longitude": 6.028109,
+                    "latitude": 80.216237
+                }
+            ]
+        },
+        {
+            "destinationId" : 3,
+            "place": []
+        },
+        {
+            "destinationId" : 4,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Nuwara-Eliya Estate Tea Factory",
+                    "img": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/b6/5e.jpg",
+                    "price": "N/C",
+                    "longitude": 7.0027104,
+                    "latitude": 80.7335392
+                },
+                {
+                    "id": 2,
+                    "name": "Lake Gregory",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e4/bd/ff/photo0jpg.jpg?w=1400&h=-1&s=1",
+                    "price": "Free",
+                    "longitude": 6.9566667,
+                    "latitude": 80.7783333
+                },
+                {
+                    "id": 3,
+                    "name": "Victoria Park",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5b/99/cb/victoria-park.jpg?w=2000&h=-1&s=1",
+                    "price": "Free",
+                    "longitude": 6.9673378,
+                    "latitude": 80.7665934
+                }
+            ]
+        },
+        {
+            "destinationId" : 5,
+            "place": []
+        },
+        {
+            "destinationId" : 6,
+            "place": []
+        },
+        {
+            "destinationId" : 7,
+            "place": []
+        },
+        {
+            "destinationId" : 8,
+            "place": []
+        },
+        {
+            "destinationId" : 9,
+            "place": []
+        },
+        {
+            "destinationId" : 10,
+            "place": []
+        },
+        {
+            "destinationId" : 11,
+            "place": []
+        },
+        {
+            "destinationId" : 12,
+            "place": []
+        },
+        {
+            "destinationId" : 13,
+            "place": []
+        },
+        {
+            "destinationId" : 14,
+            "place": []
+        },
+        {
+            "destinationId" : 15,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Mangos Indian Veg",
+                    "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/fc/92/38/img-20180720-wa0037-largejpg.jpg",
+                    "price": "40 €",
+                    "longitude": 9.6761403,
+                    "latitude": 80.0287981
+                },
+                {
+                    "id": 2,
+                    "name": "Jaffna Market",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/10/67/received-2553498664888419.jpg?w=700&h=-1&s=1",
+                    "price": "N/C",
+                    "longitude": 9.667333,
+                    "latitude": 80.009925
+                },
+                {
+                    "id": 3,
+                    "name": "Nagadeepa Purana Raja Maha Viharaya",
+                    "img": "https://media-cdn.tripadvisor.com/media/photo-w/15/15/fd/06/photo3jpg.jpg",
+                    "price": "Free",
+                    "longitude": 9.6127237,
+                    "latitude": 79.7741124
+                }
+            ]
+        },
+        {
+            "destinationId" : 16,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Laxapana Falls",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e2/71/67/pano-20160629-165515.jpg?w=1200&h=-1&s=1",
+                    "price": "Free",
+                    "longitude": 6.9097943,
+                    "latitude": 80.4853368
+                }
+            ]
+        },
+        {
+            "destinationId" : 17,
+            "place": []
+        },
+        {
+            "destinationId" : 18,
+            "place": []
+        },
+        {
+            "destinationId" : 19,
+            "place": []
+        },
+        {
+            "destinationId" : 20,
+            "place": [
+                {
+                    "id": 1,
+                    "name": "Parakrama Samudra",
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0d/29/72/parakrama-samudra-is.jpg?w=1200&h=-1&s=1",
+                    "price": "Free",
+                    "longitude": 7.89923,
+                    "latitude": 80.9382845
+                }
+            ]
+        }
+    ]
+}
